@@ -1,2 +1,2 @@
 # logica-inmobiliaria-sql
-Diseño de base de datos relacional y consultas avanzadas para plataforma inmobiliaria.
+Relational database design and advanced queries for a real estate platform.
