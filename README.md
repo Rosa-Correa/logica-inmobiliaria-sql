@@ -1,2 +1,2 @@
 # logica-inmobiliaria-sql
-Relational database design and advanced queries for a real estate platform.
+Design of relational databases and advanced queries for a real estate platform.
